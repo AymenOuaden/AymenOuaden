@@ -9,3 +9,5 @@
 - 📫 How to reach me: https://www.facebook.com/ouadenaymen/ Or https://www.linkedin.com/in/AymenOuaden
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymenOuaden)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymenOuaden&layout=Demo)](https://github.com/anuraghazra/github-readme-stats)
